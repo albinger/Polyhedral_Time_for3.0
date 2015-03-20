@@ -1,0 +1,48 @@
+{
+    "appKeys": {
+        "BG_COLOR": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "andrew.albinger@gmail.com",
+    "longName": "Polyhedral Time",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/D20.png",
+                "name": "IMAGE_D20",
+                "type": "png"
+            },
+            {
+                "file": "fonts/gotham_bold_36.ttf",
+                "name": "gotham_bold_36",
+                "type": "font"
+            },
+            {
+                "file": "fonts/gotham_light_31.ttf",
+                "name": "gotham_light_31",
+                "type": "font"
+            },
+            {
+                "file": "images/D12.png",
+                "menuIcon": true,
+                "name": "IMAGE_D12",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Polyhedral Time",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "11d8c7bf-c0b7-49ee-b0f5-445e5bbdb427",
+    "versionCode": 1,
+    "versionLabel": "1.05",
+    "watchapp": {
+        "watchface": true
+    }
+}
